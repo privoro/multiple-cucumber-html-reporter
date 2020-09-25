@@ -216,6 +216,13 @@ If you need add some custom style to your report. Add it like this `customStyle:
 
 If you need replace default style for your report. Add it like this `overrideStyle: 'your-path-where/custom.css'`
 
+### `pageLength`
+- **Type:** `Integer`
+- **Mandatory:** No
+- **Default:** 50
+
+If you need replace default style for your report. Add it like this `overrideStyle: 'your-path-where/custom.css'`
+
 
 ### `metadata`
 - **Type:** `JSON`
